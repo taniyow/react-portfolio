@@ -1,0 +1,21 @@
+nav {
+  position: fixed;
+  display: flex;
+  flex-direction: row-reverse;
+  transform: rotate(-90deg) translate3d(-50%,0,0);
+  top: 15%;
+  left: -6.5rem;
+}
+nav a {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #575757;
+}
+nav a:hover {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #ec704c;
+}
+nav a.active {
+  color: #ec704c;
+}
