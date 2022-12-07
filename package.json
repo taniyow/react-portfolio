@@ -4,7 +4,7 @@
   "homepage": "",
   "description": "A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!",
   "repository": "https://github.com/taniyow/react-portfolio",
-  "author": "Mark Tan <markcmtan@gmail.com>",
+  "author": "Jirawat Srisawat <jarv1s.265x@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
