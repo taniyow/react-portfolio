@@ -1,17 +1,17 @@
 {
     "basics": {
         "name": "Jirawat Srisawat",
-        "label": "Web Developer",
+        "label": "Senior Software Developer",
         "email": "jarv1s.265x@gmail.com",
-        "phone": "(XXX) XXX-XXXX",
+        "phone": "065-6366540",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
-        "job1": "Web",
+        "job1": "Senior Software",
         "job2": "Developer",
-        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "description": "Hello! I'm Max! A web developer that continuously strive to learn new and cutting edge technologies. I have great interest with technologies that challenges me to grow, and willingness to continuously learn. With knowledge in HTML, CSS, JS and experienced in using JQuery, AngularJS, Knockout, Vue.js, Ionic, Flutter, ASP.NET/C#, SQL Server 2008, Git, Load Test (Huawei Cloud).",
         "summary": "based in Chiang Mai, Thailand.",
-        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
-        "url": "https://taniyow.vercel.app/",
+        "keywords": "",
+        "url": "",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
@@ -29,33 +29,21 @@
             },
             {
                 "network": "LinkedIn",
-                "username": "mcmtan",
-                "url": "https://www.linkedin.com/in/mcmtan/",
+                "username": "Jirawat Srisawat",
+                "url": "https://www.linkedin.com/in/jirawat-srisawat-19100725a/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "taniyow",
-                "url": "https://github.com/taniyow",
+                "username": "jarv1smax",
+                "url": "https://github.com/jarv1smax",
                 "x_icon": "fab fa-github"
             },
             {
-                "network": "GitLab",
-                "username": "taniyow",
-                "url": "https://gitlab.com/taniyow",
-                "x_icon": "fab fa-gitlab"
-            },
-            {
-                "network": "Telegram",
-                "username": "marktaniyow",
-                "url": "https://t.me/marktaniyow",
-                "x_icon": "fab fa-telegram-plane"
-            },
-            {
-                "network": "Discord",
-                "username": "taniyow#9142",
-                "url": "https://discord.com",
-                "x_icon": "fab fa-discord"
+                "network": "Facebook",
+                "username": "j.a.r.v.1.s.m.a.x",
+                "url": "https://web.facebook.com/j.a.r.v.1.s.m.a.x/",
+                "x_icon": "fab fa-facebook"
             }
         ]
     },
@@ -111,7 +99,7 @@
     ],
     "skills": [
         {
-            "name": "Web Development",
+            "name": "Senior Software Development",
             "level": "Master",
             "keywords": ["HTML", "CSS", "Javascript"]
         }
