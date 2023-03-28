@@ -2,9 +2,9 @@
   "name": "my_website",
   "version": "0.1.0",
   "homepage": "",
-  "description": "Personal website. Credits to Jo Lienhoop and Mark Tan!",
-  "repository": "https://github.com/cylia22/my_website/blob/main/package.json",
-  "author": "Cylia Engels <Cyliaengels@gmail.com>",
+  "description": "Personal website. Credits to Jo Lienhoop en Mark Tan!",
+  "repository": "https://github.com/cylia22/my_website",
+  "author": "Cylia Engels <cyliaengels@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
