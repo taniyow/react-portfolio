@@ -63,7 +63,7 @@ export const Works = () => {
       id: 5,
       title: 'Settlement Growth', 
       description: `An analysis and prediction of the population size of Israeli Settlements, assuming 
-      the regression is (more or less) linear`,
+      the regression is (more or less) linear.`,
       alter: 'Settlement Growth',
       image: `${Lacalle}`,
     },
