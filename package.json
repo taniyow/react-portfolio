@@ -1,5 +1,5 @@
 {
-  "name": "react-portfolio",
+  "name": "my_website",
   "version": "0.1.0",
   "homepage": "",
   "description": "Personal website. Credits to Jo Lienhoop en Mark Tan!",
@@ -15,6 +15,9 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "classnames": "^2.2.6",
+    "css-select": "^3.1.1",
+    "css-what": "^6.1.0",
+    "glob-parent": "^6.0.2",
     "ios-inner-height": "^1.1.1",
     "popmotion": "^8.7.3",
     "react": "^16.14.0",
