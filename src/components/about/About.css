@@ -29,7 +29,7 @@
 .contact-btn:hover {
   margin-right: 20px;
   text-decoration: none;
-  background-color: #ec704c;
+  background-color: #00bfbf;
 }
 @media (max-width: 1024px) {
   .about {
