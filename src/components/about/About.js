@@ -23,7 +23,7 @@ export const About = () => {
   const aboutme = `I'm ${FirstName} ${LastName}, a researcher with a passion for coding. 
   I analyze data with different programs to make the best calculations and the most beautiful
   visuals. My interest in the qualitative side of research helps me to make nuances and stay in touch 
-  with wordly matters.`;
+  with worldly matters.`;
 
   return (
     <section id="about">
