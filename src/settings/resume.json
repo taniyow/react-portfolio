@@ -1,59 +1,59 @@
 {
     "basics": {
-        "name": "Mark Tan",
-        "label": "Web Developer",
+        "name": "Cylia Engels",
+        "label": "Data Analyst",
         "email": "markcmtan@gmail.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
-        "job1": "Web",
-        "job2": "Developer",
-        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
-        "summary": "based in Angeles, Philippines.",
-        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
-        "url": "https://taniyow.vercel.app/",
+        "job1": "Data",
+        "job2": "Analyst",
+        "description": "Hi, I am Cylia Engels. I love exploring the world of Science and Data and I am not afraid of the unknown",
+        "summary": "based in Amsterdam, The Netherlands.",
+        "keywords": "personal,website,portfolio,template,matplotlib, tensorflow,webdev,cylia,engelsjupyter,pandas,numpy,data, analyst,react,github,linkedin,google,gitlab,telegram",
+        "url": "https://cyliaengels.com/",
         "location": {
-            "address": "XX XXXXXstreet",
+            "address": "XX XXXXXweg",
             "postalCode": "XXXXX",
-            "city": "Angeles",
-            "country": "Philippines",
-            "countryCode": "PH",
-            "region": "Pampanga"
+            "city": "Amsterdam",
+            "country": "The Netherlands",
+            "countryCode": "NL",
+            "region": "Noord Holland"
         },
         "profiles": [
             {
                 "network": "Google",
-                "username": "markcmtan@gmail.com",
-                "url": "mailto:markcmtan@gmail.com",
+                "username": "cyliaengels@gmail.com",
+                "url": "mailto:cyliaengels@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "mcmtan",
-                "url": "https://www.linkedin.com/in/mcmtan/",
+                "username": "cylia engels",
+                "url": "https://www.linkedin.com/in/cylia-engels-5b02a465/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "taniyow",
-                "url": "https://github.com/taniyow",
+                "username": "cylia22",
+                "url": "https://github.com/cylia22",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "GitLab",
-                "username": "taniyow",
-                "url": "https://gitlab.com/taniyow",
+                "username": "Cylia Engels",
+                "url": "https://gitlab.com/cyliaengels",
                 "x_icon": "fab fa-gitlab"
             },
             {
                 "network": "Telegram",
-                "username": "marktaniyow",
-                "url": "https://t.me/marktaniyow",
+                "username": "Cylia_Engels",
+                "url": "https://t.me/cyliaengels",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
                 "network": "Discord",
-                "username": "taniyow#9142",
+                "username": "ciel#4267",
                 "url": "https://discord.com",
                 "x_icon": "fab fa-discord"
             }
@@ -61,43 +61,43 @@
     },
     "work": [
         {
-            "company": "Company",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "highlights": ["Started the company"]
+            "company": "National Opera and Ballet",
+            "position": "Manager and Project Leader",
+            "website": "https://www.operaballet.nl/en",
+            "startDate": "2005-09-01",
+            "endDate": "2021-10-01",
+            "summary": "",
+            "highlights": [""]
         }
     ],
     "volunteer": [
         {
-            "organization": "Organization",
+            "organization": "Meschibath Nefesh",
             "position": "Volunteer",
-            "website": "http://organization.com/",
-            "startDate": "2012-01-01",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "website": "",
+            "startDate": "2012-08-01",
+            "endDate": "2020-06-01",
+            "summary": "Organizing events for students and renting out student rooms",
+            "highlights": ["Opening a new student house"]
         }
     ],
     "education": [
         {
-            "institution": "University",
-            "area": "Software Development",
-            "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "institution": "VU University Amsterdam",
+            "area": "Social Science",
+            "studyType": "Research Master",
+            "startDate": "2011-09-01",
+            "endDate": "2013-07-01",
+            "grade": "Cum Lause",
+            "courses": ["SPSS - Basic SQL"]
         }
     ],
     "awards": [
         {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
+            "title": "Johannes van der Zouwen",
+            "date": "2013-08-01",
+            "awarder": "University",
+            "summary": "Nominated for best thesis of the year"
         }
     ],
     "publications": [
@@ -111,14 +111,14 @@
     ],
     "skills": [
         {
-            "name": "Web Development",
+            "name": "Data Analysis",
             "level": "Master",
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["Pandas", "Numpy", "Matplotlib"]
         }
     ],
     "languages": [
         {
-            "language": "German",
+            "language": "Dutch",
             "fluency": "Native speaker"
         },
         {
@@ -126,14 +126,14 @@
             "fluency": "Fluent speaker"
         },
         {
-            "language": "French",
-            "fluency": "Good knowledge"
+            "language": "Hebrew",
+            "fluency": "Working knowledge"
         }
     ],
     "interests": [
         {
-            "name": "Wildlife",
-            "keywords": ["Ferrets", "Unicorns"]
+            "name": "Classica Art",
+            "keywords": ["Opera", "Ballet"]
         }
     ],
     "references": [

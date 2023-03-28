@@ -21,7 +21,7 @@ export const ResumeIcon = () => {
 
   return (
     <svg 
-      xmlns="http://www.w3.org/2000/svg"
+      xmlns="https://img.icons8.com/material/24/null/user-female-circle.png"
       viewBox="0 0 24 24"
       width='24'
       height='24'
@@ -38,7 +38,7 @@ export const HeartIcon = () => {
 
   return (
     <svg
-      xmlns='http://www.w3.org/2000/svg'
+      xmlns='https://img.icons8.com/material/24/null/user-female-circle.png'
       viewBox='0 0 16 16'
       width='16'
       height='16'

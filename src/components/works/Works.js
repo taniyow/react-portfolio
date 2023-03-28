@@ -27,45 +27,44 @@ export const Works = () => {
   const [projects, setProjects] = useState([
     { 
       id: 1,
-      title: 'React Portfolio', 
-      description: `Designed and developed a ReactJS portfolio 
-      with fancy 3D animations using Three.js for 
-      the background element.`,
-      alter: 'React Portfolio',
+      title: 'Dashboard Customer Behavior', 
+      description: `This analysis is based on a dataset of people interested in buying
+       a car and whether or not they have bought it. The data is used to train a model 
+       to help predict behavior of future customers.`,
+      alter: 'Dashboard Customer Behavior',
       image: `${Portfolio}`,
     },
     { 
       id: 2,
-      title: 'VeriTru Project', 
-      description: `An advocacy project website built using
-      MEAN stack with fact-checking tool to promote actions against
-      fake news.`,
-      alter: 'VeriTru Project',
+      title: 'Dashboard Media Ads', 
+      description: `Data Analysis of Social Media Ads on whether users
+       have purchased a product after clicking on the advertisements shown to them.`,
+      alter: 'Dashboard Media Ads.',
       image: `${Veritru}`,
     },
     { 
       id: 3,
-      title: 'LoFo Project', 
-      description: `Logistics and Forwarding website built using
-      ReactJS to design and develop its front-end.`,
-      alter: 'LoFo Project',
+      title: 'Dashboard Startups', 
+      description: `Analysis of the relationship between profit, R&D spending,
+       administration spending, and marketing spending of 50 start-ups in New York, 
+       California and Florida.`,
+      alter: 'Dashboard Startups',
       image: `${Lofo}`,
     },
     { 
       id: 4,
-      title: 'Startup Project', 
-      description: `A website portfolio project for the Startup Dev Team
-      built using MEVN stack to demonstrate the CRUD capabilities of the tech stack.`,
-      alter: 'Startup Project',
+      title: 'Country Clusters', 
+      description: `In this model the method KMeans is used to cluster all countries of the 
+      world by its latitude and longitude`,
+      alter: 'Country Clusters',
       image: `${Startup}`,
     },
     { 
       id: 5,
-      title: 'LaCalle Cafe', 
-      description: `A website project for the La Calle Cafe business
-      built using Wordpress and PHP with integrated SEO tools to help
-      the business ramp up its prospects and lead generation.`,
-      alter: 'Startup Project',
+      title: 'Settlement Growth', 
+      description: `An analysis and prediction of the population size of Israeli Settlements, assuming 
+      the regression is (more or less) linear.`,
+      alter: 'Settlement Growth',
       image: `${Lacalle}`,
     },
   ]);
