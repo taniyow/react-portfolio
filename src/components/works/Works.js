@@ -55,7 +55,7 @@ export const Works = () => {
       id: 4,
       title: 'Country Clusters', 
       description: `In this model the method KMeans is used to cluster all countries of the 
-      world by it's latitude and longitude`,
+      world by its latitude and longitude`,
       alter: 'Country Clusters',
       image: `${Startup}`,
     },
@@ -63,7 +63,7 @@ export const Works = () => {
       id: 5,
       title: 'Settlement Growth', 
       description: `An analysis and prediction of the population size of Israeli Settlements, assuming 
-      the regression is more or less linear`,
+      the regression is (more or less) linear`,
       alter: 'Settlement Growth',
       image: `${Lacalle}`,
     },
