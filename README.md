@@ -14,8 +14,6 @@ A clean and customizable ReactJS portfolio template for fellow developers. Credi
 -   styled with [Material-UI](https://material-ui.com)
 -   deployed on vercel [Vercel](https://vercel.com)
 
-Special thanks to [Jo Lienhoop](https://github.com/JoHoop), and [Cody Bennett](https://github.com/CodyJasonBennett) for the inspiration.
-
 ## Features
 
 -   All of the personal information is populated from the resume.json file following the [JSON Resume](https://jsonresume.org) standard, a community driven open source initiative to create a JSON based standard for resumes. Discover the official schema [here](https://jsonresume.org/schema).
